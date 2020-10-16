@@ -1,4 +1,4 @@
-# The Head-directionality Converter for Indonesian Dependency Treebank
+# The Head-directionality Converter for Dependency Treebank
 
 
 ## The d2d converter
