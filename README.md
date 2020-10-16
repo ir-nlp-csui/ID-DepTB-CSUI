@@ -31,7 +31,6 @@ We provide two splits of the CSUI Dependency Treebank:
 
 * The original constituency treebank was built with manual annotation by [Arawinda Dinakaramani, Fam Rashel, Andry Luthfi, and Ruli Manurung](https://github.com/famrashel/idn-treebank) at Faculty of Computer Science, Universitas Indonesia in 2015.
 * The previous treebank was converted to the Penn Treebank format by Ika Alfina and Jessica Naraiswari Arwidarasti at Faculty of Computer Science, Universitas Indonesia in 2019. This PTB version was named [**Kethu**](https://github.com/ialfina/kethu).
-* The Kethu treebank was converted to a UD treebank by Ika Alfina and Jessica Naraiswari Arwidarasti in 2020.
 
 ## References
 * Ika Alfina, Indra Budi, and Heru Suhartanto. "**Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases**". In Journal of Computer Science (_accepted_)
