@@ -96,7 +96,7 @@
 # text = Thomas hanya salah satu dari enam pihak yang mengklaim sebagai pemilik jamrud raksasa itu.
 1	Thomas	_	PROPN	NNP	_	7	nsubj	_	_
 2	hanya	_	ADV	RB	_	4	advmod	_	_
-3	salah	_	ADJ	JJ	_	4	compound:n	_	_
+3	salah	_	ADJ	JJ	_	4	advmod	_	_
 4	satu	_	NUM	CD	_	0	root	_	_
 5	dari	_	ADP	IN	_	7	case	_	_
 6	enam	_	NUM	CD	_	7	nummod	_	_
@@ -788,7 +788,7 @@
 # sent_id = s-test-33
 # text = "Salah satunya Pak Menteri bakal ketemu dengan Paul Wolfowitz, tentu saja ditemani oleh James Adams, Vice President Bank Dunia untuk Asia Pasifik," kata Sekretaris Utama Bappenas, Syahrial Loetan di Jakarta, Jumat.
 1	"	_	PUNCT	``	_	8	punct	_	SpaceAfter=No
-2	Salah	_	ADJ	JJ	_	3	compound:n	_	_
+2	Salah	_	ADJ	JJ	_	3	advmod	_	_
 3-4	satunya	_	_	_	_	_	_	_	_
 3	satu	_	NUM	CD	_	8	obl	_	_
 4	nya	_	DET	DT	_	3	det	_	_
@@ -3046,7 +3046,7 @@
 36	obligasi	_	NOUN	NN	_	34	obj	_	_
 37	yang	_	SCONJ	IN	_	38	mark	_	_
 38	jatuh	_	VERB	VB	_	36	acl:relcl	_	_
-39	tempo	_	NOUN	NN	_	38	compound:v	_	_
+39	tempo	_	NOUN	NN	_	38	obl	_	_
 40	tersebut	_	DET	DT	_	36	det	_	SpaceAfter=No
 41	.	_	PUNCT	.	_	11	punct	_	_
 
@@ -3114,7 +3114,7 @@
 28	yang	_	SCONJ	IN	_	30	mark	_	_
 29	akan	_	AUX	MD	_	30	aux	_	_
 30	jatuh	_	VERB	VB	_	19	acl:relcl	_	_
-31	tempo	_	NOUN	NN	_	30	compound:v	_	_
+31	tempo	_	NOUN	NN	_	30	obl	_	_
 32	pada	_	ADP	IN	_	33	case	_	_
 33	Juli	_	PROPN	NNP	_	30	obl	_	_
 34	2008	_	NUM	CD	_	33	flat	_	_
