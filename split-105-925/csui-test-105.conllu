@@ -147,7 +147,7 @@
 11	nya	_	PRON	PRP	_	10	nsubj	_	_
 12	di	_	ADP	IN	_	13	case	_	_
 13	Amerika	_	PROPN	NNP	_	10	obl	_	_
-14	tidak	_	ADV	RB	_	15	advmod	_	_
+14	tidak	_	PART	RB	_	15	advmod	_	_
 15	jelas	_	ADJ	JJ	_	4	advcl	_	_
 16	siapa	_	PRON	WP	_	15	nsubj	_	_
 17-18	pemiliknya	_	_	_	_	_	_	_	SpaceAfter=No
@@ -287,7 +287,7 @@
 12	paling	_	ADV	RB	_	13	advmod	_	_
 13	populer	_	ADJ	JJ	_	9	acl:relcl	_	_
 14	walau	_	SCONJ	IN	_	16	mark	_	_
-15	tak	_	ADV	RB	_	16	advmod	_	_
+15	tak	_	PART	RB	_	16	advmod	_	_
 16	banyak	_	ADJ	JJ	_	7	advcl	_	_
 17	yang	_	SCONJ	IN	_	19	mark	_	_
 18	pernah	_	ADV	RB	_	19	advmod	_	_
@@ -381,7 +381,7 @@
 # text = Namun Rooney tidak sendirian.
 1	Namun	_	CCONJ	CC	_	4	cc	_	_
 2	Rooney	_	PROPN	NNP	_	4	nsubj	_	_
-3	tidak	_	ADV	RB	_	4	advmod	_	_
+3	tidak	_	PART	RB	_	4	advmod	_	_
 4	sendirian	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
 5	.	_	PUNCT	.	_	4	punct	_	_
 
@@ -415,7 +415,7 @@
 3	sisi	_	NOUN	NN	_	7	obl	_	_
 4	lain	_	ADJ	JJ	_	3	amod	_	SpaceAfter=No
 5	,	_	PUNCT	,	_	7	punct	_	_
-6	tidak	_	ADV	RB	_	7	advmod	_	_
+6	tidak	_	PART	RB	_	7	advmod	_	_
 7	banyak	_	ADJ	JJ	_	0	root	_	_
 8	pengusaha	_	NOUN	NN	_	7	nsubj	_	_
 9	Indonesia	_	PROPN	NNP	_	8	nmod	_	_
@@ -1060,7 +1060,7 @@
 12	lebih	_	ADV	RB	_	13	advmod	_	_
 13	adil	_	ADJ	JJ	_	11	xcomp	_	_
 14	dan	_	CCONJ	CC	_	16	cc	_	_
-15	tidak	_	ADV	RB	_	16	advmod	_	_
+15	tidak	_	PART	RB	_	16	advmod	_	_
 16	menekan	_	VERB	VB	_	13	conj	_	_
 17	posisi	_	NOUN	NN	_	16	obj	_	_
 18	Indonesia	_	PROPN	NNP	_	17	nmod	_	_
@@ -1160,7 +1160,7 @@
 7	tahun	_	NOUN	NN	_	4	nmod:tmod	_	_
 8	2004	_	NUM	CD	_	7	nummod	_	_
 9	hingga	_	ADP	IN	_	10	case	_	_
-10	2007	_	NUM	CD	_	8	flat:range	_	SpaceAfter=No
+10	2007	_	NUM	CD	_	8	flat	_	SpaceAfter=No
 11	,	_	PUNCT	,	_	4	punct	_	_
 12	rata-rata	_	NOUN	NN	_	4	nmod	_	_
 13	per	_	ADP	IN	_	14	case	_	_
@@ -1168,7 +1168,7 @@
 15	mencapai	_	VERB	VB	_	2	ccomp	_	_
 16	30	_	NUM	CD	_	20	nummod	_	SpaceAfter=No
 17	-	_	PUNCT	:	_	18	punct	_	SpaceAfter=No
-18	35	_	NUM	CD	_	16	flat:range	_	_
+18	35	_	NUM	CD	_	16	flat	_	_
 19	juta	_	NUM	CD	_	16	flat	_	_
 20	dolar	_	NOUN	NN	_	15	obj	_	_
 21	AS	_	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
@@ -1215,7 +1215,7 @@
 15	,	_	PUNCT	,	_	4	punct	_	_
 16	ini	_	PRON	PRP	_	19	nsubj	_	_
 17	pun	_	PART	RP	_	16	advmod:emph	_	_
-18	tidak	_	ADV	RB	_	19	advmod	_	_
+18	tidak	_	PART	RB	_	19	advmod	_	_
 19	mendadak	_	ADJ	JJ	_	4	parataxis	_	_
 20	karena	_	SCONJ	IN	_	23	mark	_	_
 21	kita	_	PRON	PRP	_	23	nsubj	_	_
@@ -1426,7 +1426,7 @@
 13	saat	_	NOUN	NN	_	17	obl:tmod	_	_
 14	ini	_	DET	DT	_	13	det	_	_
 15	Indonesia	_	PROPN	NNP	_	17	nsubj	_	_
-16	tidak	_	ADV	RB	_	17	advmod	_	_
+16	tidak	_	PART	RB	_	17	advmod	_	_
 17	butuh	_	VERB	VB	_	5	conj	_	_
 18	CGI	_	PROPN	NNP	_	17	obj	_	_
 19	lagi	_	ADV	RB	_	17	advmod	_	SpaceAfter=No
@@ -1462,7 +1462,7 @@
 1	"	_	PUNCT	``	_	6	punct	_	SpaceAfter=No
 2	Tapi	_	CCONJ	CC	_	6	cc	_	_
 3	memang	_	ADV	RB	_	6	advmod	_	_
-4	tidak	_	ADV	RB	_	6	advmod	_	_
+4	tidak	_	PART	RB	_	6	advmod	_	_
 5	perlu	_	AUX	MD	_	6	aux	_	_
 6	duduk	_	VERB	VB	_	0	root	_	_
 7	bersama	_	ADV	RB	_	6	advmod	_	_
@@ -1578,7 +1578,7 @@
 22	Rp	_	NOUN	NN	_	20	obj	_	SpaceAfter=No
 23	40	_	NUM	CD	_	22	nummod	_	SpaceAfter=No
 24	-	_	PUNCT	:	_	25	punct	_	SpaceAfter=No
-25	50	_	NUM	CD	_	23	flat:range	_	_
+25	50	_	NUM	CD	_	23	flat	_	_
 26	triliun	_	NUM	CD	_	23	flat	_	SpaceAfter=No
 27	,	_	PUNCT	,	_	20	punct	_	_
 28	dari	_	ADP	IN	_	29	case	_	_
@@ -1598,7 +1598,7 @@
 5	dan	_	CCONJ	CC	_	6	cc	_	_
 6	PPh	_	PROPN	NNP	_	4	conj	_	SpaceAfter=No
 7	,	_	PUNCT	,	_	4	punct	_	_
-8	belum	_	ADV	RB	_	9	advmod	_	_
+8	belum	_	PART	RB	_	9	advmod	_	_
 9	termasuk	_	VERB	VB	_	4	acl	_	_
 10	yang	_	PRON	PRP	_	9	nsubj	_	_
 11	valuta	_	NOUN	NN	_	10	nmod	_	_
@@ -1663,7 +1663,7 @@
 21	5	_	NUM	CD	_	22	nummod	_	_
 22	persen	_	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 23	,	_	PUNCT	,	_	17	punct	_	_
-24	tidak	_	ADV	RB	_	26	advmod	_	_
+24	tidak	_	PART	RB	_	26	advmod	_	_
 25	seperti	_	ADP	IN	_	26	case	_	_
 26	Dana	_	NOUN	NN	_	17	obl	_	_
 27	Alokasi	_	NOUN	NN	_	26	nmod	_	_
@@ -1953,7 +1953,7 @@
 4	sendiri	_	DET	DT	_	1	det	_	_
 5	hingga	_	ADP	IN	_	6	case	_	_
 6	kini	_	NOUN	NN	_	8	obl:tmod	_	_
-7	belum	_	ADV	RB	_	8	advmod	_	_
+7	belum	_	PART	RB	_	8	advmod	_	_
 8	dilaporkan	_	VERB	VB	_	0	root	_	_
 9	kepada	_	ADP	IN	_	10	case	_	_
 10	Badan	_	PROPN	NNP	_	8	obl	_	_
@@ -2459,7 +2459,7 @@
 9	tinggi	_	ADJ	JJ	_	4	acl:relcl	_	_
 10	dan	_	CCONJ	CC	_	11	cc	_	_
 11	sustainable	_	X	FW	_	9	conj	_	_
-12	tidak	_	ADV	RB	_	14	advmod	_	_
+12	tidak	_	PART	RB	_	14	advmod	_	_
 13	akan	_	AUX	MD	_	14	aux	_	_
 14	optimal	_	ADJ	JJ	_	0	root	_	_
 15	tanpa	_	ADP	IN	_	16	case	_	_
@@ -2486,7 +2486,7 @@
 6	yang	_	SCONJ	IN	_	7	mark	_	_
 7	dilakukan	_	VERB	VB	_	5	acl:relcl	_	_
 8	pemerintah	_	NOUN	NN	_	7	obl:agent	_	_
-9	tidak	_	ADV	RB	_	11	advmod	_	_
+9	tidak	_	PART	RB	_	11	advmod	_	_
 10	akan	_	AUX	MD	_	11	aux	_	_
 11	optimal	_	ADJ	JJ	_	0	root	_	_
 12	untuk	_	SCONJ	IN	_	13	mark	_	_
@@ -2587,7 +2587,7 @@
 16	berbuat	_	VERB	VB	_	14	acl	_	_
 17	yang	_	SCONJ	IN	_	18	mark	_	_
 18	terbaik	_	ADJ	JJ	_	16	xcomp	_	_
-19	tidak	_	ADV	RB	_	20	advmod	_	_
+19	tidak	_	PART	RB	_	20	advmod	_	_
 20	hanya	_	ADV	RB	_	22	advmod	_	_
 21	untuk	_	ADP	IN	_	22	case	_	_
 22	pemegang	_	NOUN	NN	_	18	obl	_	_
