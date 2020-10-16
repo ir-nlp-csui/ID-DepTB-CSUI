@@ -1,9 +1,8 @@
 # The Head-directionality Converter for Dependency Treebank
 
-
 ## The d2d converter
 
-We created a simple method to swap the head-directionality of parse trees in a dependency treebank in CoNLLU format, named **headSwap**. In Alfina et al (2020), we apply this method to swap the head-directionality for noun phrases in Indonesian dependency treebank.
+We created a simple method to swap the head-directionality of parse trees in a dependency treebank in the CoNLLU format, named **headSwap**. In Alfina et al (2020), we applied this method to swap the head-directionality for noun phrases in Indonesian dependency treebank.
 
 
 ## The CSUI Dependency Treebank
@@ -23,7 +22,9 @@ We provide two splits of the CSUI Dependency Treebank:
   * csui-test-105, the gold standard that manually annotated
   * csui-train-925, the training dataset that automatically converted 
   
-* Split-400-630, thas was published in UD website with name [UI Indonesian CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI)
+* Split-UD, thas was published in UD website with name [UI Indonesian CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI). We need to create this split since UD treebank has requirement that a dataset with 20-30 K words should be split into 2 set, with the testing dataset consist of around 10K words. This split consists of two dataset:
+  * id_csui-ud-test.conllu, consists of around 400 sentences (10K words)
+  * id_csui-ud-train.conllu, consists of around 630 sentences (18K words)
 
 
 
