@@ -1,7 +1,5 @@
 # The Head-directionality Converter for Dependency Treebank
 
-## The d2d converter
-
 We created a simple method to swap the head-directionality of parse trees in a dependency treebank in the CoNLLU format, named **headSwap**. In Alfina et al (2020), we applied this method to swap the head-directionality for noun phrases in Indonesian dependency treebank.
 
 
