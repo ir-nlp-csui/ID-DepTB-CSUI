@@ -32,7 +32,7 @@ We provide two splits of the CSUI Dependency Treebank:
 * The previous treebank was converted to the Penn Treebank format by Ika Alfina and Jessica Naraiswari Arwidarasti at Faculty of Computer Science, Universitas Indonesia in 2019. This PTB version was named [**Kethu**](https://github.com/ialfina/kethu).
 
 ## References
-* Ika Alfina, Indra Budi, and Heru Suhartanto. ["Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases"(http://thescipub.com/pdf/jcssp.2020.1585.1597.pdf). In Journal of Computer Science, Vol 16 No 11, 2020.
+* Ika Alfina, Indra Budi, and Heru Suhartanto. [Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases](http://thescipub.com/pdf/jcssp.2020.1585.1597.pdf). In Journal of Computer Science, Vol 16 No 11, 2020.
 
 
 ## Changelog
