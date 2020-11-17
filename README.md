@@ -20,7 +20,7 @@ We provide two splits of the CSUI Dependency Treebank:
   * csui-test-105, the gold standard that manually annotated
   * csui-train-925, the training dataset that automatically converted 
   
-* Split-UD, thas was published in UD website with name [UI Indonesian CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI). We need to create this split since UD treebank has requirement that a dataset with 20-30 K words should be split into 2 set, with the testing dataset consist of around 10K words. This split consists of two dataset:
+* Split-UD, thas was published in UD website with name [UD Indonesian CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI). We need to create this split since UD treebank has requirement that a dataset with 20-30 K words should be split into 2 set, with the testing dataset consist of around 10K words. This split consists of two dataset:
   * id_csui-ud-test.conllu, consists of around 10K words
   * id_csui-ud-train.conllu, consists of around 18K words
 
