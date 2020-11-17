@@ -21,8 +21,8 @@ We provide two splits of the CSUI Dependency Treebank:
   * csui-train-925, the training dataset that automatically converted 
   
 * Split-UD, thas was published in UD website with name [UI Indonesian CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI). We need to create this split since UD treebank has requirement that a dataset with 20-30 K words should be split into 2 set, with the testing dataset consist of around 10K words. This split consists of two dataset:
-  * id_csui-ud-test.conllu, consists of around 400 sentences (10K words)
-  * id_csui-ud-train.conllu, consists of around 630 sentences (18K words)
+  * id_csui-ud-test.conllu, consists of around 10K words
+  * id_csui-ud-train.conllu, consists of around 18K words
 
 
 
@@ -32,8 +32,7 @@ We provide two splits of the CSUI Dependency Treebank:
 * The previous treebank was converted to the Penn Treebank format by Ika Alfina and Jessica Naraiswari Arwidarasti at Faculty of Computer Science, Universitas Indonesia in 2019. This PTB version was named [**Kethu**](https://github.com/ialfina/kethu).
 
 ## References
-* Ika Alfina, Indra Budi, and Heru Suhartanto. "**Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases**". In Journal of Computer Science (_accepted_)
-* Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. ["**Converting an Indonesian Constituency Treebank to the Penn Treebank Format**"](https://ieeexplore.ieee.org/abstract/document/9037723). In the Proceeding of The 2019 International Conference of Asian Language Processing (IALP 2019) in Shanghai, China, 15-17 November 2019. 
+* Ika Alfina, Indra Budi, and Heru Suhartanto. ["Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases"(http://thescipub.com/pdf/jcssp.2020.1585.1597.pdf). In Journal of Computer Science, Vol 16 No 11, 2020.
 
 
 ## Changelog
