@@ -1,4 +1,4 @@
-#The CSUI Dependency Treebank
+# The CSUI Dependency Treebank
 
 The CSUI treebank is a conversion from an Indonesian constituency treebank in the Penn Treebank format named [**Kethu**](https://github.com/ialfina/kethu) that was also a conversion from a constituency treebank built by [**Dinakaramani et al. (2015)**](https://github.com/famrashel/idn-treebank). 
 We named this treebank **CSUI**, since all the three versions of the treebanks were built at Faculty of Computer Science, Universitas Indonesia.
@@ -9,7 +9,7 @@ Other characteristics of the treebank:
 * Average sentence length is around 27.4 words per-sentence, which is very high compare to the [Indonesian-PUD](https://github.com/UniversalDependencies/UD_Indonesian-PUD) treebank that has average sentence length of 19.4.
 
 
-### The Split
+## The Split
 We provide two splits of the CSUI Dependency Treebank:
 * Split-105-925, that was used on the experiment on a paper that described how the treebank was constructed (Alfina et a., 2020). This split consists of two dataset:
   * csui-test-105, the gold standard that manually annotated
