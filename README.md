@@ -1,9 +1,4 @@
-# The Head-directionality Converter for Dependency Treebank
-
-We created a simple method to swap the head-directionality of parse trees in a dependency treebank in the CoNLLU format, named **headSwap**. In Alfina et al (2020), we applied this method to swap the head-directionality for noun phrases in Indonesian dependency treebank.
-
-
-## The CSUI Dependency Treebank
+#The CSUI Dependency Treebank
 
 The CSUI treebank is a conversion from an Indonesian constituency treebank in the Penn Treebank format named [**Kethu**](https://github.com/ialfina/kethu) that was also a conversion from a constituency treebank built by [**Dinakaramani et al. (2015)**](https://github.com/famrashel/idn-treebank). 
 We named this treebank **CSUI**, since all the three versions of the treebanks were built at Faculty of Computer Science, Universitas Indonesia.
