@@ -35,3 +35,5 @@ We provide two splits of the CSUI Dependency Treebank:
 2020-10-15 v1.0
 * Initial release 
 
+## Contact
+ika.alfina [at] cs.ui.ac.id
