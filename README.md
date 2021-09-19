@@ -1,4 +1,4 @@
-# The CSUI Dependency Treebank
+# The UD Indonesian-CSUI Dependency Treebank
 
 The CSUI treebank is a conversion from an Indonesian constituency treebank in the Penn Treebank format named [**Kethu**](https://github.com/ialfina/kethu) that was also a conversion from a constituency treebank built by [**Dinakaramani et al. (2015)**](https://github.com/famrashel/idn-treebank). 
 We named this treebank **CSUI**, since all the three versions of the treebanks were built at Faculty of Computer Science, Universitas Indonesia.
